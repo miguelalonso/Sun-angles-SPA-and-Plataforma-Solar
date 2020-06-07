@@ -10,5 +10,6 @@ Further information on this algorithm is available in the following NREL technic
 Original code in C/C++ and licence can be found [here](http://www.nrel.gov/midc/spa/).
 
 Method of Plataforma Solar de ALmería - Ciemat
+
 original files can be found at
 http://www.psa.es/sdg/sunpos.htm
